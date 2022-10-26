@@ -1,3 +1,2 @@
-This is for the IoT Stack tutorial :-) 
+สำหรับการติดตั้งบน Raspberrypi เพื่อใช้งานใน IIoT
 
-https://youtu.be/mzYdsPUI1TA
